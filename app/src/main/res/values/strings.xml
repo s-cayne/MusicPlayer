@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+    <string name="podcasts">Podcasts</string>
+    <string name="store">Store</string>
+</resources>
